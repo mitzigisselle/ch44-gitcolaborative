@@ -1,3 +1,4 @@
-# ch44-gitcolaborative## Branches
+# ch44-gitcolaborative## 
+Branches
 - dev
 - mitzi-dev
